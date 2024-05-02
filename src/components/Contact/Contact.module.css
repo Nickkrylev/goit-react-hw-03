@@ -1,0 +1,17 @@
+.icon{width:30px;
+margin-right: 5px;}
+.boxContact{
+    display:flex;
+    border:2px solid;
+    margin:10px;
+    border-radius:10px;
+    justify-content: space-between;
+    padding:7px;
+}
+.button{
+    padding: 0px;
+}
+.field{
+    display: flex;
+    justify-content: flex-start;
+}
